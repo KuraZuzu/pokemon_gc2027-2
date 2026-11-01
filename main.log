@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.11.2)  2 NOV 2026 02:34
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.11.2)  2 NOV 2026 03:00
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/zuzus/ポケモン/ポケモン/パーティ考察/pokemon_gc2027-2/main
@@ -773,58 +773,55 @@ LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <9> not available
 (Font)              Font shape `JY3/gt/m/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 (Font)              scaled to size 8.32242pt on input line 50.
-
-
-LaTeX Warning: Citation `global2' on page 1 undefined on input line 58.
-
-<figures/party.png, id=134, 382.593pt x 322.149pt>
+<figures/party.png, id=113, 382.593pt x 322.149pt>
 File: figures/party.png Graphic file (type png)
 <use figures/party.png>
 Package luatex.def Info: figures/party.png  used on input line 70.
 (luatex.def)             Requested size: 236.15788pt x 198.85533pt.
-[1{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-<./figures/party.png>] [2] [3] [4] [5] [6] [7](load cache: extra_lmmono10-regular.luc)
+<./figures/party.png>] [2] [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 199.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 199.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 199.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 5.54828pt on input line 199.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 4.62357pt on input line 199.
+ [4](load cache: extra_lmmono10-regular.luc)
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 286.
+(Font)              scaled to size 9.24713pt on input line 248.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 286.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 286.
+(Font)              <7> on input line 248.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 286.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 286.
- [8
-
-] (./main.aux)
+(Font)              scaled to size 6.47299pt on input line 248.
+ [5] (./main.aux)
  ***********
 LaTeX2e <2026-11-01>
 L3 programming layer <2026-09-09>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1E56C56F053E1EE07160F55E8BE79177;4338.
+(rerunfilecheck)             Checksum: 536D17F5BB9EF6732856A7ECB03705AF;3568.
 )
 
 Here is how much of LuaTeX's memory you used:
- 11297 strings out of 475522
- 305795,794899 words of node,token memory allocated
- 871 words of node memory still in use:
-   7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 151 attribute, 54 glue_spec, 22 attribute_list, 1 write, 9 user_defined, 1 pdf_action nodes
-   avail lists: 1:39,2:85936,3:665,4:279,5:94,6:52,7:8975,8:56,9:4209,10:36,11:36
- 34028 multiletter control sequences out of 65536+600000
- 42 fonts using 36437959 bytes
- 119i,6n,112p,2206b,394s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf>
-Output written on main.pdf (8 pages, 2185189 bytes).
+ 11300 strings out of 475522
+ 305802,794899 words of node,token memory allocated
+ 847 words of node memory still in use:
+   7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 140 attribute, 54 glue_spec, 21 attribute_list, 1 write, 9 user_defined, 1 pdf_action nodes
+   avail lists: 1:14,2:79957,3:778,4:371,5:97,6:75,7:9074,8:56,9:4341,10:29,11:39
+ 34038 multiletter control sequences out of 65536+600000
+ 49 fonts using 40594447 bytes
+ 119i,9n,112p,2206b,394s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf>
+Output written on main.pdf (5 pages, 2160484 bytes).
 
-PDF statistics: 234 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 1048576)
- 257 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 213 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 1048576)
+ 217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
