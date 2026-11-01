@@ -1,5 +1,9 @@
 # 『Pokémon Champions』大会分析論文（LuaLaTeX／2段組み）
 
+本文は[こちら](main.pdf)
+
+## ディレクトリ構成
+
 このフォルダをそのまま **VS Code の「フォルダーを開く」** で開いてください。`main.tex` が論文本文、`.vscode/settings.json` がビルド設定です。
 
 ## 初回セットアップ（Windows 11）
