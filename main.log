@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.11.2)  2 NOV 2026 03:00
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.11.2)  2 NOV 2026 03:07
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/zuzus/ポケモン/ポケモン/パーティ考察/pokemon_gc2027-2/main
@@ -637,6 +637,8 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip52
+) (c:/texlive/2026/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
 ) (c:/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box71
@@ -781,47 +783,71 @@ Package luatex.def Info: figures/party.png  used on input line 70.
  [1{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-<./figures/party.png>] [2] [3]
+<./figures/party.png>] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 199.
+(Font)              <7> on input line 148.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 199.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 199.
+(Font)              <5> on input line 148.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 5.54828pt on input line 199.
+(Font)              scaled to size 6.47299pt on input line 148.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 199.
- [4](load cache: extra_lmmono10-regular.luc)
+(Font)              scaled to size 4.62357pt on input line 148.
+
+
+LaTeX Warning: Citation `speedcontrol' on page 3 undefined on input line 163.
+
+[3] [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 214.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 214.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 5.54828pt on input line 214.
+
+
+LaTeX Warning: Reference `sec:tailwind' on page 5 undefined on input line 228.
+
+[5](load cache: extra_lmmono10-regular.luc)
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 248.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 248.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 248.
- [5] (./main.aux)
+(Font)              scaled to size 9.24713pt on input line 263.
+ [6
+
+] (./main.aux)
  ***********
 LaTeX2e <2026-11-01>
 L3 programming layer <2026-09-09>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 536D17F5BB9EF6732856A7ECB03705AF;3568.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 536D17F5BB9EF6732856A7ECB03705AF;3568
+(rerunfilecheck)             After:  ED161B7755628827D433E1F0D4EC99F0;3778.
 )
 
 Here is how much of LuaTeX's memory you used:
- 11300 strings out of 475522
+ 11351 strings out of 475522
  305802,794899 words of node,token memory allocated
- 847 words of node memory still in use:
-   7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 140 attribute, 54 glue_spec, 21 attribute_list, 1 write, 9 user_defined, 1 pdf_action nodes
-   avail lists: 1:14,2:79957,3:778,4:371,5:97,6:75,7:9074,8:56,9:4341,10:29,11:39
- 34038 multiletter control sequences out of 65536+600000
+ 901 words of node memory still in use:
+   7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 162 attribute, 54 glue_spec, 23 attribute_list, 1 write, 9 user_defined, 2 pdf_action nodes
+   avail lists: 1:14,2:85004,3:778,4:377,5:97,6:75,7:9074,8:93,9:4497,10:29,11:39
+ 34081 multiletter control sequences out of 65536+600000
  49 fonts using 40594447 bytes
  119i,9n,112p,2206b,394s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf>
-Output written on main.pdf (5 pages, 2160484 bytes).
+<c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (6 pages, 2188241 bytes).
 
-PDF statistics: 213 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 1048576)
+PDF statistics: 233 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 1048576)
  217 words of extra memory for PDF output out of 10000 (max. 100000000)
 
