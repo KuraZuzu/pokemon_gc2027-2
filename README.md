@@ -25,4 +25,6 @@ latexmk -lualatex -interaction=nonstopmode -file-line-error -outdir=build main.t
 - `build/main.pdf`: 出力される論文PDF
 - `build/`: LaTeX の補助ファイルもここにまとまります。
 
+節・図表・参考文献の番号は補助ファイルを使って解決するため、LaTeXを1回だけ実行すると `??` や `[?]` が残る場合があります。本プロジェクトでは、冒頭の `% !TeX program = lualatex` による単発実行よりワークスペースのレシピを優先し、`latexmk` が必要な回数だけ再実行する設定にしています。通常の確認には `build/main.pdf` を開いてください。
+
 ※拡張機能は編集・表示・ビルド操作を担当し、実際のコンパイルは TeX Live の `latexmk` → `lualatex` が行います。VS Code の拡張機能のみではビルドできません。
